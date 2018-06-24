@@ -1,0 +1,11 @@
+# package directories
+node_modules
+jspm_packages
+
+src/
+.envrc*
+
+# Serverless directories
+.serverless
+yarn-error.log
+data.json

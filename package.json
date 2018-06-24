@@ -1,0 +1,19 @@
+{
+  "name": "skrilla-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "heroku-client": "^3.0.6"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0",
+    "yakbak": "^3.0.0"
+  }
+}
